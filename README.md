@@ -1,12 +1,12 @@
 # sql_mongoDB
-<div>Задание 1<div>
+<div> <b>Задание 1</b><div>
 <div>Предусловия: установите MySQL Server и MySQL Workbench<div>
 <div>Наша задача разобраться с простыми и немного усложненными запросами к базам данных, написанных на SQL<div>
 <div>Скачайте дампы базы данных Hogwarts отсюда https://drive.google.com/drive/u/3/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB<div>
 <div>Осуществите импорт таблиц, используя Workbench<div>
 <div>Выполните задание 1 и 2, которое вы найдете здесь https://drive.google.com/drive/u/3/folders/1Lt7CY69nR5awNs_9q0XJOHRti4vJj3Qa
 <div>Сохраните свое решение в виде документа, куда необходимо добавить скрины отправленных запросов в CLI или Workbench<div>
-<div>Задание 2<div>
+<div> <b>Задание 2</b><div>
 <div>Предусловия: создайте аккаунт/окружение в MongoDB Atlas и скачайте MongoDB Compass.<div>
 <div>Наша задача создать свою базу данных с коллекциями, а также выполните несколько запросов к ним. Все запросы сохраните в отдельном гугл-документе.<div>
 <div>Создайте новую базу данных Hogwarts<div>
@@ -18,8 +18,8 @@
 <div>Посчитайте общее количество персонажей, чей возраст больше 11<div>
 <div>Удалите информацию о книге 'Quidditch Through The Ages'<div>
 <div>Выведите информацию обо всех в книгах, в названиях которых содержится слово The в любом месте<div>
-<div>Задание 1<div>
+<div> <b>Задание 1</b><div>
 <div>[Задание 1.docx](https://github.com/eos1301/sql_mongoDB/files/12214987/1-3b8d16fe5b9f4c4ab1c75cc51316721b.docx)<div>
-<div>Задание 2<div>
+<div> <b>Задание 2</b><div>
 <div>[Задание 2.docx](https://github.com/eos1301/sql_mongoDB/files/12214993/2-5f0e958c34f3478d9c5f4f9a1f307940.docx)<div>
 
